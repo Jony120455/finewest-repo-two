@@ -1,0 +1,14 @@
+.companies{
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.user h3{
+    font-size: 38px;
+    font-weight: 600;
+}
+.lorem{
+    height:32px;
+    width: 161px;
+}
